@@ -27,6 +27,6 @@ Dimana dalam project ini saya membuat Kunci Pintu dengan Voice Command yang bisa
 
 ![rangkaianalat](https://github.com/NesyaKurnia/FinalProject_IDS_05311840000009_Kadek-Nesya-Kurniadewi/blob/main/rangkaianalat.jpg)
 
-2. Sambungkan kode dari PC/Laptop menuju Arduino
+2. Sambungkan kode dari PC/Laptop menuju Arduino (code dapat dilihat [disini](https://github.com/NesyaKurnia/FinalProject_IDS_05311840000009_Kadek-Nesya-Kurniadewi/blob/main/ids.ino) )
 3. Sambungkan baterai ke alat yang sudah dirangkai
 4. Connect dengan Bluetooth menggunakan aplikasi Arduino Voice Command
