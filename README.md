@@ -25,7 +25,7 @@ Dimana dalam project ini saya membuat Kunci Pintu dengan Voice Command yang bisa
 ## Cara Pembuatan :
 1. Membuat rangkaian alat seperti gambar dibawah ini :
 
-![rangkaianalat]()
+![rangkaianalat](https://github.com/NesyaKurnia/FinalProject_IDS_05311840000009_Kadek-Nesya-Kurniadewi/blob/main/rangkaianalat.jpg)
 
 2. Sambungkan kode dari PC/Laptop menuju Arduino
 3. Sambungkan baterai ke alat yang sudah dirangkai
