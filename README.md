@@ -59,4 +59,5 @@ Connect batery to 12 volt supply
 1. Saya sudah coba membuat alatnya, tetapi saat connect ke bluetooth, bluetooth module HC-05 tidak ditemukan oleh HP saya, sehingga saya masih belum tahu pasti apakah alat tersebut bekerja atau tidak
 2. Saya belum beli Bluetooth Module HC-05 lagi dikarenakan waktunya tidak cukup dan biaya pembelian masih kurang
 3. Project yang saya buat belum selesai dan belum tahu bisa berjalan atau tidak
-Mohon maaf atar banyaknya kendala yang belum saya dapat selesaikan ^_^
+
+#### Mohon maaf atar banyaknya kendala yang belum saya dapat selesaikan ^_^
