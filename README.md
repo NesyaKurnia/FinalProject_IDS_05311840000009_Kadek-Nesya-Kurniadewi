@@ -54,6 +54,9 @@ Connect batery to 12 volt supply
 2. Sambungkan kode dari PC/Laptop menuju Arduino (code dapat dilihat [disini](https://github.com/NesyaKurnia/FinalProject_IDS_05311840000009_Kadek-Nesya-Kurniadewi/blob/main/ids.ino) )
 3. Sambungkan baterai ke alat yang sudah dirangkai
 4. Connect dengan Bluetooth menggunakan aplikasi Arduino Voice Command
+### Project yang Saya Buat
+
+![](https://github.com/NesyaKurnia/FinalProject_IDS_05311840000009_Kadek-Nesya-Kurniadewi/blob/main/ProjectSaya.jpg)
 
 ## KENDALA
 1. Saya sudah coba membuat alatnya, tetapi saat connect ke bluetooth, bluetooth module HC-05 tidak ditemukan oleh HP saya, sehingga saya masih belum tahu pasti apakah alat tersebut bekerja atau tidak
