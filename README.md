@@ -63,4 +63,4 @@ Connect batery to 12 volt supply
 2. Saya belum beli Bluetooth Module HC-05 lagi dikarenakan waktunya tidak cukup dan biaya pembelian masih kurang
 3. Project yang saya buat belum selesai dan belum tahu bisa berjalan atau tidak
 
-#### Mohon maaf atar banyaknya kendala yang belum saya dapat selesaikan ^_^
+#### Mohon maaf atas banyaknya kendala yang belum saya dapat selesaikan ^_^
