@@ -1,7 +1,7 @@
 # Final Project Mata Kuliah Intrusion Detection System (IDS)
 ## Kadek Nesya Kurniadewi (05311840000009)
 
-## Voice Command Door Lock
+# Voice Command Door Lock
 Dimana dalam project ini saya membuat Kunci Pintu dengan Voice Command yang bisa dikontrol dengan suara kita.
 - Saat saya mengatakan "Door Lock" maka pintu akan terkunci
 - Saat saya mengaatakan "Door Unlock" maka pintu akan terbuka (tidak terkunci)
